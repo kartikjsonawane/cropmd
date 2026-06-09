@@ -8,6 +8,14 @@
 [![React](https://img.shields.io/badge/React-18-blue)](https://react.dev)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)](https://mongodb.com)
 
+## 🔗 Live Demo
+
+| Service | URL |
+|---------|-----|
+| **Frontend** | https://cropmd.vercel.app |
+| **Backend API** | https://cropmd.onrender.com |
+| **GitHub** | https://github.com/kartikjsonawane/cropmd |
+
 ---
 
 ## Architecture Overview
