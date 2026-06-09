@@ -311,6 +311,18 @@ Add all environment variables from `.env.example` in Render dashboard.
 
 ---
 
+
+---
+
+## Author
+
+**Kartik Sonawane**
+
+- GitHub: [@kartikjsonawane](https://github.com/kartikjsonawane)
+- Project: [github.com/kartikjsonawane/cropmd](https://github.com/kartikjsonawane/cropmd)
+
+---
+
 ## License
 
 MIT — free for portfolio and commercial use.
